@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ukpai Chika Kalu @Vokuc
-- 👀 I’m interested in Innovations in music, technology, sports, energy and video games
+- 👀 I’m interested in Learning and growing my skills as a software engineer
 - 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate on some life changing (I think) projects (Entertainment, data science/engineering, sports, energy) in the future...
+- 💞️ I’m looking to collaborate on projects in the fields of Entertainment, data science/engineering, sports, energy in the future...
 - 📫 How to reach me: send a DM on twitter @vokuc_ukpai, instagram @vokuc_sound.
 
 <!---
