@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ukpai Chika Kalu @Vokuc
-- 👀 I’m interested in growing my skills as a software engineer (C, PYTHON & JAVASCRIPT)
+- 👀 I’m interested in growing my skills as a software engineer (C, PYTHON & TYPESCRIPT)
 - Software Developer at Phree Media Technology
 - 💞️ I’m looking to collaborate on projects in the fields of Entertainment, data science/engineering, sports, energy in the future...
 - Road to Web3
